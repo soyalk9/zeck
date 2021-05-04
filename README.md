@@ -20,8 +20,8 @@
 
 ## Bot Link
 [Invite Link](https://discordapp.com/oauth2/authorize?client_id=837186152900591627&scope=bot&permissions=2080374975)
-[Support Server](https://discord.gg/4NJ9vR6Nwy)
-[Website](https://zeck.soyalk9.repl.co)
+| [Support Server](https://discord.gg/4NJ9vR6Nwy)
+| [Website](https://zeck.soyalk9.repl.co)
 
 
 
