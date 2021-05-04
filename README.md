@@ -23,6 +23,8 @@
 | [Support Server](https://discord.gg/4NJ9vR6Nwy)
 | [Website](https://zeck.soyalk9.repl.co)
 
+### VOTE LINKS
+- [DISCORD BOT LITS](https://discordbotlist.com/bots/zeck/upvote)
 
 
 <a href="https://discordbotlist.com/bots/837186152900591627"><img src="https://discordbotlist.com/api/v1/bots/837186152900591627/widget"></a>
