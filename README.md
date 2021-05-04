@@ -24,7 +24,8 @@
 | [Website](https://zeck.soyalk9.repl.co)
 
 ### VOTE LINKS
-- [DISCORD BOT LIST](https://discordbotlist.com/bots/zeck/upvote)
+- [discordbotlist](https://discordbotlist.com/bots/zeck/upvote)
+- [fateslist](https://fateslist.xyz/bot/837186152900591627/vote)
 
 
 <a href="https://discordbotlist.com/bots/837186152900591627"><img src="https://discordbotlist.com/api/v1/bots/837186152900591627/widget"></a>
