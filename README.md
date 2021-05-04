@@ -25,3 +25,4 @@
 
 
 
+<a href="https://discordbotlist.com/bots/837186152900591627"><img src="https://discordbotlist.com/api/v1/bots/837186152900591627/widget"></a>
